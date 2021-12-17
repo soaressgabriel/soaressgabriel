@@ -1,17 +1,26 @@
-### Hey 👋🏽, I'm Gabriel!
+### Hey 👋🏻, I'm Gabriel!
+<a href="https://www.linkedin.com/in/gabriel-anisio-soares">
+  <img align="left" alt="Gabriel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/devssgabriel">
+  <img align="left" alt="Gabriel Soares | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://leetcode.com/soaressgabriel/">
+  <img align="left" alt="Gabriel's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-<!-- <br />
-<br /> -->
+<br />
+<br />
 
 **Talking about Personal Stuffs:**
 
 <!-- - 👯 I’m looking to collaborate on ...; -->
-<!-- - 📫 How to reach me: ... -->
 
-- 👨🏽‍💻 I’m currently working on improving my techskills;
+- 🧑🏻‍💻 I’m currently working on improving my techskills;
 - 🌱 I’m currently learning C#; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡ Fun fact: The first programmer was the daughter of a mad poet.
+- ⚡ Fun fact: the first programmer was the daughter of a mad poet;
+- 📫 How to reach me: [gabriel@labsid.eng.br](mailto:gabriel@labsid.eng.br)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
